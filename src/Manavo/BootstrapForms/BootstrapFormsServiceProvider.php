@@ -1,8 +1,8 @@
 <?php namespace Manavo\BootstrapForms;
 
-use Illuminate\Html\HtmlServiceProvider as IlluminateHtmlServiceProvider;
+use Collective\Html\HtmlServiceProvider as CollectiveHtmlServiceProvider;
 
-class BootstrapFormsServiceProvider extends IlluminateHtmlServiceProvider
+class BootstrapFormsServiceProvider extends CollectiveHtmlServiceProvider
 {
 
     /**
