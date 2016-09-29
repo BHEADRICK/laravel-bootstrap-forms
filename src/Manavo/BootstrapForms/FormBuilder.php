@@ -1,6 +1,6 @@
 <?php
 
-namespace Manavo\BootstrapForms;
+namespace Bheadrick\BootstrapForms;
 
 use Collective\Html\FormBuilder as CollectiveFormBuilder;
 
