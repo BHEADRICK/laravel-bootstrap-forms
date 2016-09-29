@@ -1,4 +1,4 @@
-<?php namespace Manavo\BootstrapForms;
+<?php namespace Bheadrick\BootstrapForms;
 
 use Collective\Html\HtmlServiceProvider as CollectiveHtmlServiceProvider;
 
